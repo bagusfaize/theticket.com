@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "code": "TET01",
+    "title": "The Eras Tour 2023",
+    "description": "A ticket for the eras tour concert.",
+    "price": 250,
+    "location": "Singapore National Stadium",
+    "date": "Sunday, 18 Feb 2023"
+  },
+  {
+    "id": 2,
+    "code": "DWP01",
+    "title": "Djakarta Warehouse Project 2023",
+    "description": "A ticket for the jakarta warehouse project festival.",
+    "price": 75,
+    "location": "Jakarta International Stadium",
+    "date": "Saturday, 10 Feb 2023"
+  },
+  {
+    "id": 3,
+    "code": "PTP01",
+    "title": "Pestapora 2023",
+    "description": "A ticket for the pestapora music festival.",
+    "price": 50,
+    "location": "ICE BSD Jakarta",
+    "date": "Sunday, 1 Jan 2023"
+  },
+  {
+    "id": 4,
+    "code": "BNE01",
+    "title": "Paramore: Brand New Eyes 2023",
+    "description": "A ticket for the brand new eyes world tour concert.",
+    "price": 150,
+    "location": "Singapore National Stadium",
+    "date": "Friday, 15 Jun 2023"
+  },
+  {
+    "id": 5,
+    "code": "PTP02",
+    "title": "Pestapora 2023 - Day 2",
+    "description": "A ticket for the pestapora music festival.",
+    "price": 50,
+    "location": "ICE BSD Jakarta",
+    "date": "Sunday, 2 Jan 2023"
+  },
+  {
+    "id": 6,
+    "code": "TET02",
+    "title": "The Eras Tour 2023 - Day 2",
+    "description": "A ticket for the jakarta warehouse project festival.",
+    "price": 250,
+    "location": "Singapore National Stadium",
+    "date": "Monday, 19 Feb 2023"
+  }
+]
