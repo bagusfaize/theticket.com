@@ -9,7 +9,7 @@ export default function Hero({
             <TicketIcon className="size-5"/>
             <h5 className="font-semibold text-sm">THETICKET.COM</h5>
         </div>
-        <div className="my-2">
+        <div className="mt-5 mb-2">
             <h1 className="mb-2 text-xl md:text-3xl font-bold">Book Your Ticket for Music Concert 2023</h1>
             <p className="font-semibold">
                 {heading}
