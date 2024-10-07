@@ -1,7 +1,7 @@
 export default function TicketSkeleton() {
     return (
         <div className="grid border border-slate-300 rounded-2xl p-4 w-full h-[140px]">
-            <div className="animate-pulse grid grid-cols-12 space-x-4">
+            <div className="animate-pulse grid grid-cols-12">
                 <div className="col-span-3 rounded-lg bg-slate-300 w-14"></div>
                 <div className="col-span-9 space-y-6 py-1">
                     <div className="h-2.5 bg-slate-300 rounded"></div>
